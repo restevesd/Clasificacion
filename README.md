@@ -7,14 +7,14 @@ Using Machine Learning we will be able to predict the category of the message
 
 ### The process for this exercise is as follows:
 
-####1. Data Cleaning and Processing
+#### 1. Data Cleaning and Processing
 Clean the data so that it can be used in a Machine Learning model (https://github.com/restevesd/Clasificacion/blob/master/data/process_data.py).
     
-####2. Trainign Model
+#### 2. Trainign Model
 We use a pipeline to automate tasks and a prediction model is made.
 See script in (https://github.com/restevesd/Clasificacion/blob/master/models/train_classifier.py).
 
-####3. Model in production
+#### 3. Model in production
 Execute intructions below.
         
 ### Instructions:
