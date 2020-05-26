@@ -8,14 +8,14 @@ Using Machine Learning we will be able to predict the category of the message
 ### The process for this exercise is as follows:
 
 1. Data Cleaning and Processing
-    Clean the data so that it can be used in a Machine Learning model [ETL Notebook](https://github.com/Blostrupsen/disaster_response_pipelines/blob/master/ETL%20Pipeline%20Preparation.ipynb).
+    Clean the data so that it can be used in a Machine Learning model (https://github.com/restevesd/Clasificacion/blob/master/data/process_data.py).
     
 2. Trainign Model
     We use a pipeline to automate tasks and a prediction model is made.
-    See more details in the [ML Notebook](https://github.com/Blostrupsen/disaster_response_pipelines/blob/master/ML%20Pipeline%20Preparation.ipynb).
+    See script in (https://github.com/restevesd/Clasificacion/blob/master/models/train_classifier.py).
 
 3. Model in production
-    Develop a [web app](https://view6914b2f4-3001.udacity-student-workspaces.com/) for message prediction and visualization.
+    Execute intructions below.
         
 ### Instructions:
 #### Run the following instructions in the directory root directory of the project to set up all assets:
