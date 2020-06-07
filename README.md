@@ -52,8 +52,6 @@ To run ML pipeline:
     
     ../data/process_data.py
     
-    ../data/disaster_response.db - database created when running `python process_data.py`
-    
     ../data/DisasterResponse.db - database for the clean data
     
 
